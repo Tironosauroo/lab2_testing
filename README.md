@@ -37,5 +37,5 @@ pip install selenium pytest
 
 Запусти тести:
 ```
-pytest test_notino.py -s
+pytest -v test_notino.py 
 ```
